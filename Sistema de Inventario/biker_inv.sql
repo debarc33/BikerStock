@@ -2,8 +2,8 @@
 -- version 4.5.1
 -- http://www.phpmyadmin.net
 --
--- Servidor: 127.0.0.1
--- Tiempo de generación: 16-06-2017 a las 07:12:59
+-- Servidor: xampp
+-- Tiempo de generación: 24-10-2022 a las 07:12:59
 -- Versión del servidor: 10.1.19-MariaDB
 -- Versión de PHP: 7.0.13
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de datos: `oswa_inv`
+-- Base de datos: `biker_inv`
 --
 
 -- --------------------------------------------------------
