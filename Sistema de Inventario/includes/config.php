@@ -3,13 +3,7 @@
 |--------------------------------------------------------------------------
 | BIKER-INV V1
 |--------------------------------------------------------------------------
-| Author: Siamon Hasan
-| Project Name: OSWA-INV
-| Version: v2
-| Offcial page: http://oswapp.com/
-| facebook Page: https://www.facebook.com/oswapp
-|
-|
+| 
 |
 */
   define( 'DB_HOST', 'localhost' );          // Set database host
